@@ -8,14 +8,14 @@ Atualmente desenvolvendo sistemas em C# Csharp .NET.
 <br>
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/?username=christofreedown">
+  <img src="https://github-readme-stats.vercel.app/api/?username=christofreedown&theme=moltack">
   <!--  <img src="https://github-readme-stats.vercel.app/api/?username=christofreedown&theme=dark"/> -->
 </a>
 <br>
 <br>
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christofreedown&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christofreedown&layout=compact&theme=moltack"/>
   <!-- <img src="https://github-readme-stats.vercel.app/api/?username=christofreedown&theme=dark"/>  -->
 </a>
 <br>

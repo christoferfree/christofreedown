@@ -2,7 +2,10 @@
 
 <h1> Olá! 👋</h1>
 <br>
-Cadista freelancer. Formação Técnico em Estradas e Edificações pelo CEFET-MT. Game designer no tempo livre. Curioso em programação.
+Cadista freelancer.<p>
+Formação Técnico em Estradas e Edificações pelo CEFET-MT.<p>
+Game designer no tempo livre.<p>
+Curioso em programação. Estudante de Python.<p>
 <br>
 <br>
 <br>

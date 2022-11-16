@@ -1,9 +1,8 @@
 
 
-<h1> Bora codar! 👋</h1>
+<h1> Olá! 👋</h1>
 <br>
-Analista de Sistema Full Stack Developer. Sólida experiência em desenvolvimento de Sistemas WebApps. 
-Atualmente desenvolvendo sistemas em C# Csharp .NET.
+Cadista freelancer. Formação Técnico em Estradas e Edificações pelo CEFET-MT. Game designer no tempo livre. Curioso em programação.
 <br>
 <br>
 <br>
